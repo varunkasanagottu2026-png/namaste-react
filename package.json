@@ -1,0 +1,29 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react",
+  "keywords": [],
+  "homepage": "https://github.com/varunkasanagottu2026-png/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/varunkasanagottu2026-png/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunkasanagottu2026-png/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "varun",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
